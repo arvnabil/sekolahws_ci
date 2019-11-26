@@ -1,7 +1,7 @@
 # sekolahws_ci
 
-## [link demo web sekolah berbasis CI https://walisongojkt.000webhostapp.com/](https://walisongojkt.000webhostapp.com/)
+## [link](https://walisongojkt.000webhostapp.com/) demo web sekolah berbasis CI
 
-## [link Login https://walisongojkt.000webhostapp.com/letmein](https://walisongojkt.000webhostapp.com/letmein)
+## [link](https://walisongojkt.000webhostapp.com/letmein) Login
 ### Username : author
 ### Pass : author
